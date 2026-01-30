@@ -53,26 +53,5 @@
 ![Agile](https://img.shields.io/badge/Agile-blue?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-![Narayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narayan0789&show_icons=true&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Narayan0789&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Narayan0789&theme=radical)
-
----
-
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAMENarayan0789&layout=compact&theme=radical)
-
----
-
 ### ✨ Quote
 > *"First, solve the problem. Then, write the code."* – Narayan Kumar 
