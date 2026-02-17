@@ -1,16 +1,17 @@
 # Hi 👋, I'm Narayan Kumar  
 
-🚀 Full Stack Java Developer | AI & ML Enthusiast  
+🚀 Full Stack Developer | Backend Developer (Node.js, Express.js) | AI & ML Enthusiast 
 🎓 B.Tech CSE Student  
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **Full Stack & AI based projects**
-- 🌱 Learning **Spring Boot, React, AI/ML**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, React, SQL, AI Basics**
-- ⚡ Fun fact: *I debug more than I code 😄*
+- 🔭 Currently building **Full Stack Web Applications**
+- 🌱 Strong focus on **Backend Development using Node.js and Express.js**
+- 👯 Open to collaborate on **Full Stack and Backend Projects**
+- 💬 Ask me about **Node.js, Express.js, React, MongoDB, REST APIs**
+- ⚡ Passionate about **Backend Development and Problem Solving**
+
 
 ---
 
